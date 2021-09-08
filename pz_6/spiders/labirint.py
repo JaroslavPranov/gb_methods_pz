@@ -1,4 +1,3 @@
-
 import scrapy
 
 # Для подсказок объекта response
